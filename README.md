@@ -13,7 +13,7 @@ A good way to show this is by illustration:
 
 ^Each letter has a specific array index associated with the ASCII values when the file is in input stages. Within the array index contains a LinkedList which is efficient in this case considering we only care about where the word has order in the English alphabet.
 
-##Known Glitches
+####Known Glitches
 
 -Some inputs might cause exceptions as project has not received 100% error checking
 -Java native file I/O might not correctly and program need a restart
