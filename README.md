@@ -9,7 +9,7 @@ Results show that the array of Linked Lists are significantly more efficient at 
 
 A good way to show this is by illustration:
 
-|A | B | C | D | E |
+| A | B | C | D | E |
 
 ^Each letter has a specific array index associated with the ASCII values when the file is in input stages. Within the array index contains a LinkedList which is efficient in this case considering we only care about where the word has order in the English alphabet.
 
