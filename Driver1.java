@@ -1,7 +1,6 @@
 /* Dillon Mabry
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * This driver is to test the effectiveness of the ArrayOrderedList of
+ sorting a mass data text file of many words and calculate it's run-time
  */
 package assignment3itcs2214mabrydillon;
 
