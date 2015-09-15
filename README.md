@@ -1,9 +1,9 @@
 # ArrayOrderedList-vs.-Array-of-LinkedLists
-##Testing environment to compare run-times of a series of Linked Lists vs. an ArrayOrderedList efficiency
+###Testing environment to compare run-times of a series of Linked Lists vs. an ArrayOrderedList efficiency
 
 This project is mainly involving two distinct data structures, an ArrayOrderedList and an array of Linked Lists. Each structure has advantages but for purposes of testing a test file has been included containing hundreds of words to show the efficiency of each structure. 
 
-##Results
+####Results
 
 Results show that the array of Linked Lists are significantly more efficient at sorting massive inputs of words due to the dedicated array storage of each letter of the alphabet. 
 
