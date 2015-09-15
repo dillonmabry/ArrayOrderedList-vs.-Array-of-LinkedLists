@@ -1,7 +1,8 @@
 /* Dillon Mabry
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * This driver is to test the effectiveness of the Array of Linked Lists of
+ sorting a mass data text file of many words and calculate it's run-time. The array will
+ contain 26 different linked lists, each for each letter of the alphabet to increase efficiency
+ of sorting
  */
 package assignment3itcs2214mabrydillon;
 
